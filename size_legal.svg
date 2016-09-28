@@ -17,7 +17,7 @@
    id="svg4152"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="version 16.svg"
+   sodipodi:docname="size_legal.svg"
    inkscape:export-filename="C:\AM\Home\Timeline\version 11.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -264,9 +264,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="604.25088"
-     inkscape:cy="526.53846"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="662.05026"
+     inkscape:cy="537.94558"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -322,6 +322,18 @@
        position="394.56557,580.88821"
        orientation="0,1"
        id="guide4486" />
+    <sodipodi:guide
+       position="817,699.99998"
+       orientation="0,1"
+       id="guide4396" />
+    <sodipodi:guide
+       position="460,699.99998"
+       orientation="0,1"
+       id="guide4398" />
+    <sodipodi:guide
+       position="954.54297,710.00781"
+       orientation="0,1"
+       id="guide4400" />
   </sodipodi:namedview>
   <metadata
      id="metadata4157">
@@ -331,7 +343,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -491,7 +503,7 @@
          sodipodi:role="line"
          x="138.24294"
          y="596.5058"
-         id="tspan4864">Lab, becomes projects</tspan><tspan
+         id="tspan4864">Lab, starts projects</tspan><tspan
          sodipodi:role="line"
          x="138.24294"
          y="615.2558"
@@ -681,21 +693,25 @@
          x="57.28421"
          y="434.01831">1987</tspan><tspan
          sodipodi:role="line"
-         id="tspan4373"
-         x="57.28421"
-         y="452.76831">ATG</tspan><tspan
-         sodipodi:role="line"
          id="tspan4375"
          x="57.28421"
-         y="471.51831">founded,</tspan><tspan
+         y="452.76831">ATG founded</tspan><tspan
+         sodipodi:role="line"
+         x="57.28421"
+         y="471.51831"
+         id="tspan4378">in Collge of</tspan><tspan
+         sodipodi:role="line"
+         x="57.28421"
+         y="490.26831"
+         id="tspan4390">Business,</tspan><tspan
          sodipodi:role="line"
          id="tspan4377"
          x="57.28421"
-         y="490.26831">testing for</tspan><tspan
+         y="509.01831">doing testing</tspan><tspan
          sodipodi:role="line"
          id="tspan4379"
          x="57.28421"
-         y="509.01831">HP</tspan></text>
+         y="527.76831">for HP</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 67.841589,631.8622 -10.633671,0"
@@ -1197,5 +1213,16 @@
        cx="87.813507"
        cy="632.32886"
        r="5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="361.65933"
+       y="372.86221"
+       id="text4392"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4394"
+         x="361.65933"
+         y="372.86221">A Brief History of CASS</tspan></text>
   </g>
 </svg>
