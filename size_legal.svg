@@ -256,6 +256,21 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6,-0.6)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4626-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4397-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -264,9 +279,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="662.05026"
-     inkscape:cy="537.94558"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="500.9868"
+     inkscape:cy="256.79639"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -889,38 +904,38 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="489.64926"
-       y="878.0827"
+       x="489.64929"
+       y="878.78986"
        id="text5375-4-69"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4309-3"
-         x="489.64926"
-         y="878.0827"
+         x="489.64929"
+         y="878.78986"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">2005</tspan><tspan
          sodipodi:role="line"
-         id="tspan4313-8"
-         x="489.64926"
-         y="896.8327"
-         style="font-weight:normal">Begin hosting</tspan><tspan
-         sodipodi:role="line"
-         x="489.64926"
-         y="915.5827"
+         x="489.64929"
+         y="897.53986"
          style="font-weight:normal"
-         id="tspan5582">for Kernel.org</tspan><tspan
+         id="tspan5185">OSL moves into Kerr</tspan><tspan
          sodipodi:role="line"
-         x="489.64926"
-         y="934.3327"
+         x="489.64929"
+         y="916.28986"
          style="font-weight:normal"
-         id="tspan5580">and Apache</tspan><tspan
+         id="tspan5179">from the library, begins</tspan><tspan
          sodipodi:role="line"
-         x="489.64926"
-         y="953.0827"
+         x="489.64929"
+         y="935.03986"
          style="font-weight:normal"
-         id="tspan5584">Software</tspan><tspan
+         id="tspan5195">hosting for Kernel.org</tspan><tspan
          sodipodi:role="line"
-         x="489.64926"
-         y="971.8327"
+         x="489.64929"
+         y="953.78986"
+         style="font-weight:normal"
+         id="tspan5584">and Apache Software</tspan><tspan
+         sodipodi:role="line"
+         x="489.64929"
+         y="972.53986"
          style="font-weight:normal"
          id="tspan5586">Foundation</tspan></text>
     <circle
@@ -932,27 +947,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="634.37396"
+       x="631.54553"
        y="769.64233"
        id="text5375-4-69-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4309-3-1"
-         x="634.37396"
+         x="631.54553"
          y="769.64233"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">2008</tspan><tspan
          sodipodi:role="line"
          id="tspan4313-8-4"
-         x="634.37396"
+         x="631.54553"
          y="788.39233"
          style="font-weight:normal">Begin hosting</tspan><tspan
          sodipodi:role="line"
-         x="634.37396"
+         x="631.54553"
          y="807.14233"
          style="font-weight:normal"
          id="tspan5586-4">for Linux</tspan><tspan
          sodipodi:role="line"
-         x="634.37396"
+         x="631.54553"
          y="825.89233"
          style="font-weight:normal"
          id="tspan5649">Foundation</tspan></text>
@@ -1224,5 +1239,44 @@
          id="tspan4394"
          x="361.65933"
          y="372.86221">A Brief History of CASS</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4246-7-4-2-6-6-5-8"
+       cx="907"
+       cy="774.86218"
+       r="12" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="976.94507"
+       y="876.3114"
+       id="text5375-4-69-1-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-1-8-1"
+         x="976.94507"
+         y="876.3114"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">2013</tspan><tspan
+         sodipodi:role="line"
+         x="976.94507"
+         y="895.0614"
+         style="font-weight:normal"
+         id="tspan5687-0">OSL moves</tspan><tspan
+         sodipodi:role="line"
+         x="976.94507"
+         y="913.8114"
+         style="font-weight:normal"
+         id="tspan4434">from IS</tspan><tspan
+         sodipodi:role="line"
+         x="976.94507"
+         y="932.5614"
+         style="font-weight:normal"
+         id="tspan4436">to EECS</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4626-7)"
+       d="M 956.81261,862.88226 916.64182,789.85008"
+       id="path5651-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
