@@ -24,6 +24,35 @@
   <defs
      id="defs4154">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4737"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path4739" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4672"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4443"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0.0"
@@ -271,6 +300,21 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6,-0.6)" />
     </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4737-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4739-1" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -279,11 +323,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="965.17664"
-     inkscape:cy="394.7333"
+     inkscape:zoom="1"
+     inkscape:cx="609.87236"
+     inkscape:cy="357.71385"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -392,7 +436,13 @@
            height="128.36357"
            x="269.18961"
            y="280.49014" /></flowRegion><flowPara
-         id="flowPara4871" /></flowRoot>  </g>
+         id="flowPara4871" /></flowRoot>    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 841.25,213.25 953.5,374.75"
+       id="path4407"
+       inkscape:connector-curvature="0"
+       transform="translate(0,287.3622)" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
@@ -653,37 +703,36 @@
          y="990.59766"
          id="tspan5594">in IS</tspan></text>
     <text
-       transform="translate(0,-287.3622)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="138.24294"
-       y="521.5058"
+       x="137.24294"
+       y="550.14362"
        id="text5375-4-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5536"
          style="font-weight:bold"
-         x="138.24294"
-         y="521.5058">1997</tspan><tspan
+         x="137.24294"
+         y="550.14362">1997</tspan><tspan
          sodipodi:role="line"
          id="tspan5546"
-         x="138.24294"
-         y="540.2558">COB Web Dev</tspan><tspan
+         x="137.24294"
+         y="568.89362">COB Web Dev</tspan><tspan
          sodipodi:role="line"
-         x="138.24294"
-         y="559.0058"
+         x="137.24294"
+         y="587.64362"
          id="tspan4860">Team formed</tspan><tspan
          sodipodi:role="line"
-         x="138.24294"
-         y="577.7558"
+         x="137.24294"
+         y="606.39362"
          id="tspan4862">out of HP Computer</tspan><tspan
          sodipodi:role="line"
-         x="138.24294"
-         y="596.5058"
+         x="137.24294"
+         y="625.14362"
          id="tspan4864">Lab, starts projects</tspan><tspan
          sodipodi:role="line"
-         x="138.24294"
-         y="615.2558"
+         x="137.24294"
+         y="643.89362"
          id="tspan4866">for OSU</tspan></text>
     <text
        transform="translate(0,-287.3622)"
@@ -790,70 +839,68 @@
          x="1008.4178"
          y="824.63129">Things projects</tspan></text>
     <text
-       transform="translate(0,-287.3622)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="57.28421"
-       y="434.01831"
+       x="109.28421"
+       y="177.65611"
        id="text5375-4-6-4-00"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4371"
          style="font-weight:bold"
-         x="57.28421"
-         y="434.01831">1987</tspan><tspan
+         x="109.28421"
+         y="177.65611">1987</tspan><tspan
          sodipodi:role="line"
          id="tspan4375"
-         x="57.28421"
-         y="452.76831">ATG founded</tspan><tspan
+         x="109.28421"
+         y="196.40611">ATG founded</tspan><tspan
          sodipodi:role="line"
-         x="57.28421"
-         y="471.51831"
+         x="109.28421"
+         y="215.15611"
          id="tspan4378">in Collge of</tspan><tspan
          sodipodi:role="line"
-         x="57.28421"
-         y="490.26831"
+         x="109.28421"
+         y="233.90611"
          id="tspan4390">Business,</tspan><tspan
          sodipodi:role="line"
          id="tspan4377"
-         x="57.28421"
-         y="509.01831">doing testing</tspan><tspan
+         x="109.28421"
+         y="252.65611">doing testing</tspan><tspan
          sodipodi:role="line"
          id="tspan4379"
-         x="57.28421"
-         y="527.76831">for HP</tspan></text>
+         x="109.28421"
+         y="271.40613">for HP</tspan></text>
     <text
-       transform="translate(0,-287.3622)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="56.418056"
-       y="663.92468"
+       x="85.41806"
+       y="415.56247"
        id="text5375-4-6-4-00-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4496"
-         x="56.418056"
-         y="663.92468">HP</tspan><tspan
+         x="85.41806"
+         y="415.56247">HP</tspan><tspan
          sodipodi:role="line"
          id="tspan4498"
-         x="56.418056"
-         y="682.67468">Computer</tspan><tspan
+         x="85.41806"
+         y="434.31247">Computer</tspan><tspan
          sodipodi:role="line"
          id="tspan4500"
-         x="56.418056"
-         y="701.42468">Lab formed</tspan><tspan
+         x="85.41806"
+         y="453.06247">Lab formed</tspan><tspan
          sodipodi:role="line"
          id="tspan4502"
-         x="56.418056"
-         y="720.17468">in College</tspan><tspan
+         x="85.41806"
+         y="471.81247">in College</tspan><tspan
          sodipodi:role="line"
          id="tspan4504"
-         x="56.418056"
-         y="738.92468">of Business</tspan><tspan
+         x="85.41806"
+         y="490.56247">of Business</tspan><tspan
          sodipodi:role="line"
          id="tspan4506"
-         x="56.418056"
-         y="757.67468" /></text>
+         x="85.41806"
+         y="509.31247" /></text>
     <text
        transform="translate(0,-287.3622)"
        xml:space="preserve"
@@ -1172,6 +1219,23 @@
          y="932.5614"
          style="font-weight:normal"
          id="tspan4436">to EECS</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4672)"
+       d="m 137,533 0,-168"
+       id="path4410"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4737)"
+       d="M 79,171 63,135"
+       id="path4729"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4737-2)"
+       d="m 78.13863,396.59536 -16.00001,-36"
+       id="path4729-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
